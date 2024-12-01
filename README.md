@@ -18,6 +18,7 @@
 
 - **I debug better than I clean my room.😎**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adhirajojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhirajojha" height="30" width="40" /></a>
@@ -52,13 +53,8 @@
 </p>
 
 <div align="center">
-  <p>
-    <img width="400" height="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhiraj24&show_icons=true&locale=en&layout=compact" alt="adhiraj24" />
-    <img height="185" src="https://github-readme-stats.vercel.app/api?username=adhiraj24&show_icons=true&theme=dark&locale=en" alt="adhiraj24" />
-  </p>
-  
-  <p>
-    <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=adhiraj24&" alt="adhiraj24" />
-  </p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhiraj24&show_icons=true&locale=en&layout=compact" height="185" alt="adhiraj24" />
+    <img src="https://github-readme-stats.vercel.app/api?username=adhiraj24&show_icons=true&theme=dark&locale=en" height="185" alt="adhiraj24" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhiraj24&" height = "200" alt="adhiraj24" />
 </div>
 
