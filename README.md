@@ -51,10 +51,14 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
-<div align = "center">
-  <p><img align="left" width = "400" height ="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhiraj24&show_icons=true&locale=en&layout=compact" alt="adhiraj24" /></p>
+<div align="center">
+  <p>
+    <img width="400" height="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhiraj24&show_icons=true&locale=en&layout=compact" alt="adhiraj24" />
+    <img height="185" src="https://github-readme-stats.vercel.app/api?username=adhiraj24&show_icons=true&theme=dark&locale=en" alt="adhiraj24" />
+  </p>
   
-  <p>&nbsp;<img align="center" height ="185" src="https://github-readme-stats.vercel.app/api?username=adhiraj24&show_icons=true&theme=dark&locale=en" alt="adhiraj24" /></p>
-  
-  <p><img align="center" width = "500" src="https://github-readme-streak-stats.herokuapp.com/?user=adhiraj24&" alt="adhiraj24" /></p>
+  <p>
+    <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=adhiraj24&" alt="adhiraj24" />
+  </p>
 </div>
+
