@@ -52,7 +52,7 @@
 </p>
 
 <div align = "center">
-  <p><img align="left" width = "500" height ="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhiraj24&show_icons=true&locale=en&layout=compact" alt="adhiraj24" /></p>
+  <p><img align="left" width = "400" height ="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhiraj24&show_icons=true&locale=en&layout=compact" alt="adhiraj24" /></p>
   
   <p>&nbsp;<img align="center" height ="185" src="https://github-readme-stats.vercel.app/api?username=adhiraj24&show_icons=true&theme=dark&locale=en" alt="adhiraj24" /></p>
   
