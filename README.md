@@ -68,11 +68,8 @@
 <div align="center">
     <img width = "380" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhiraj24&show_icons=true&locale=en&layout=compact" height="185" alt="adhiraj24" />
     <img width = "350"src="https://github-readme-stats.vercel.app/api?username=adhiraj24&show_icons=true&theme=dark&locale=en" height="185" alt="adhiraj24" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=adhiraj24" height="140" alt="adhiraj24" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhiraj24&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="260" alt="activity-graph graph"/>
 
 </div>
 
 <br>
-
-
-
