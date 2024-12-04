@@ -66,9 +66,10 @@
 <h2 align="left">GitHub Profile Stats:</h2>
 
 <div align="center">
-    <img width = "330" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhiraj24&show_icons=true&locale=en&layout=compact" height="185" alt="adhiraj24" />
-    <img width = "370"src="https://github-readme-stats.vercel.app/api?username=adhiraj24&show_icons=true&theme=dark&locale=en" height="185" alt="adhiraj24" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhiraj24&" height = "180" alt="adhiraj24" />
+    <img width = "380" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhiraj24&show_icons=true&locale=en&layout=compact" height="185" alt="adhiraj24" />
+    <img width = "350"src="https://github-readme-stats.vercel.app/api?username=adhiraj24&show_icons=true&theme=dark&locale=en" height="185" alt="adhiraj24" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=adhiraj24" height="140" alt="adhiraj24" />
+
 </div>
 
 <br>
