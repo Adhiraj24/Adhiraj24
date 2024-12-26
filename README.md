@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **HireQuest - "Connecting Talent to Opportunity."**
 
-- 👨‍💻 I’m currently learning **Daisy UI, TailWind CSS,**
+- 👨‍💻 I’m currently learning **Docker, Nextjs**
 
 - 📝 I regularly write articles on [https://medium.com/@ojhaadhiraj](https://medium.com/@ojhaadhiraj)
 
