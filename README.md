@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adhiraj24&label=Profile%20views&color=0e75b6&style=flat" alt="divya-patil132" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adhiraj24&label=Profile%20views&color=0e75b6&style=flat" alt="Adhiraj24" /> </p>
 
 
 ![MasterHead](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
