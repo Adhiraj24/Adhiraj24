@@ -6,7 +6,7 @@
 <h1 align="center">
   <div style="overflow: hidden; white-space: nowrap; width: 100%;">
     <span style="display: inline-block; padding-left: 100%; animation: marquee 10s linear infinite;">
-      <img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=400&vCenter=true&lines=👋+Hello,+Adhiraj+Ojha;A+Full+stack+Developer" />
+      <img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,+Adhiraj+Ojha;A+Full+stack+Developer" />
     </span>
   </div>
 </h1>
