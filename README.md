@@ -1,12 +1,12 @@
 ![MasterHead](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,;+Here's+Adhiraj+Ojha;A+Full+stack+Web;Currently+exploring+the+world+of+AI" />
+
 
 
 <h1 align="center">
   <div style="overflow: hidden; white-space: nowrap; width: 100%;">
     <span style="display: inline-block; padding-left: 100%; animation: marquee 10s linear infinite;">
-      Hi 👋, I'm Adhiraj Ojha
+      <img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,;+Here's+Adhiraj+Ojha;A+Full+stack+Web;Currently+exploring+the+world+of+AI" />
     </span>
   </div>
 </h1>
